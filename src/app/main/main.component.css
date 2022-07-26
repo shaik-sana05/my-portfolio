@@ -3,7 +3,7 @@ nav li a:hover{
 }
 
 .home{
-    background: linear-gradient(rgba(255, 255, 255, 0.3),rgba(0, 0, 0, 0.9)), url('assets/img/Home-img.jpeg');
+    background: linear-gradient(rgba(255, 255, 255, 0.3),rgba(0, 0, 0, 0.9)), url('src/assets/img/Home-img.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Ubuntu', sans-serif;
@@ -33,7 +33,7 @@ nav li a:hover{
 
 .services{
     color:#fff;
-    background:  linear-gradient(rgba(0, 0, 0, 0.9),rgba(255, 255, 255, 0.5)), url('assets/img/Services-img.jpeg');
+    background:  linear-gradient(rgba(0, 0, 0, 0.9),rgba(255, 255, 255, 0.5)), url('src/assets/img/Services-img.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -64,7 +64,7 @@ section span:hover{
 
 .skills{
     color: whitesmoke;
-    background:  linear-gradient(rgba(255, 255, 255, 0.5),rgba(0, 0, 0, 0.9)), url('assets/img/Skills-img.jpeg');
+    background:  linear-gradient(rgba(255, 255, 255, 0.5),rgba(0, 0, 0, 0.9)), url('src/assets/img/Skills-img.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -126,7 +126,7 @@ section span:hover{
 
 .about{
     color:whitesmoke;
-    background:  linear-gradient(rgba(0, 0, 0, 0.9),rgba(255, 255, 255, 0.5)), url('assets/img/About-img.jpeg');
+    background:  linear-gradient(rgba(0, 0, 0, 0.9),rgba(255, 255, 255, 0.5)), url('src/assets/img/About-img.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -145,7 +145,7 @@ section span:hover{
 
 .contact{
     color:whitesmoke;
-    background:  linear-gradient(rgba(255, 255, 255, 0.5),rgba(0, 0, 0, 0.9)), url('assets/img/Contact-img.avif');
+    background:  linear-gradient(rgba(255, 255, 255, 0.5),rgba(0, 0, 0, 0.9)), url('src/assets/img/Contact-img.avif');
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
